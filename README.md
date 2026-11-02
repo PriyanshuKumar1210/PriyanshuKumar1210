@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=220&section=header&text=Priyanshu%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20ASP.NET%20Core&descAlignY=60&descSize=17" width="100%" />
 
@@ -23,9 +24,9 @@ I enjoy transforming complex business requirements into efficient software solut
 
 Currently, I am focused on strengthening my software engineering fundamentals, exploring system design, and continuously improving my development skills.
 
-- 🔭 **Currently Working On:** Full-stack web development and modern application architecture.
+- 🔭 **Currently Working On:** On-Screen Marking (OSM) platform and full-stack web applications.
 - 🌱 **Currently Learning:** Advanced React.js, ASP.NET Core, System Design, and AI Integration.
-- 💻 **Primary Stack:** React.js, JavaScript, C#, ASP.NET Core Web API.
+- 💻 **Primary Stack:** React.js, JavaScript, TypeScript, C#, ASP.NET Core Web API.
 - 🗄️ **Database:** Microsoft SQL Server, ADO.NET, Stored Procedures.
 - 🔐 **Interested In:** Authentication, Authorization, API Security, and Performance Optimization.
 - 🧠 **Exploring:** Scalable Architecture, Cloud Computing, and AI-powered applications.
@@ -55,7 +56,7 @@ Currently, I am focused on strengthening my software engineering fundamentals, e
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-**Also working with:** Microsoft SQL Server, ADO.NET, SQL Queries, and Stored Procedures.
+**Also working with:** Microsoft SQL Server, ADO.NET, SQL Queries, Stored Procedures, and Table-Valued Parameters.
 
 ### Development Tools & Platforms
 
@@ -67,11 +68,39 @@ Currently, I am focused on strengthening my software engineering fundamentals, e
 
 ## 🚀 Featured Projects
 
-### 🍽️ Apna Rasoi – Online Food Delivery
+### 🖥️ 1. On-Screen Marking (OSM) Platform
+
+**Tech Stack:** React.js | TypeScript | ASP.NET Core | SQL Server
+
+Working on an On-Screen Marking platform designed to support digital evaluation workflows and improve the efficiency of examination processes.
+
+**Key Areas:**
+- Modern and responsive frontend development using React.js.
+- Backend API development using ASP.NET Core.
+- Component-based architecture and reusable UI components.
+- Database integration and data management using SQL Server.
+- Frontend routing and application state management.
+- Building user-friendly interfaces for digital workflows.
+
+### 📞 2. CallerVault – Client Communication Management
+
+**Tech Stack:** React.js | JavaScript | REST APIs
+
+A web-based application focused on managing client communication, call history, and message interactions through an organized interface.
+
+**Key Features:**
+- Client-wise conversation management.
+- WhatsApp-style message grouping.
+- Message creation, editing, and deletion.
+- Call history and communication tracking.
+- Priority and task status management.
+- Dynamic message history and API integration.
+
+### 🍽️ 3. Apna Rasoi – Online Food Delivery
 
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB
 
-An online food delivery application focused on providing a seamless and user-friendly food ordering experience.
+An online food delivery application focused on providing users with a seamless and user-friendly food ordering experience.
 
 **GitHub:** [View Project](https://github.com/PriyanshuKumar1210/Apna-Rasoi)
 
