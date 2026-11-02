@@ -36,6 +36,7 @@ Currently, I am focused on strengthening my software engineering fundamentals, e
 
 ---
 
+
 ## 🛠️ Technical Skills
 
 ### Frontend Development
@@ -53,10 +54,10 @@ Currently, I am focused on strengthening my software engineering fundamentals, e
 ### Database & Storage
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
-**Also working with:** Microsoft SQL Server, ADO.NET, SQL Queries, Stored Procedures, and Table-Valued Parameters.
+**Also working with:** PostgreSQL, SQL, ADO.NET, Database Design, Stored Procedures.
 
 ### Development Tools & Platforms
 
@@ -70,23 +71,23 @@ Currently, I am focused on strengthening my software engineering fundamentals, e
 
 ### 🖥️ 1. On-Screen Marking (OSM) Platform
 
-**Tech Stack:** React.js | TypeScript | ASP.NET Core | SQL Server
+**Tech Stack:** React.js | TypeScript | ASP.NET Core | PostgreSQL
 
-Working on an On-Screen Marking platform designed to support digital evaluation workflows and improve the efficiency of examination processes.
+Working on an On-Screen Marking platform designed to support digital evaluation workflows and improve examination processes.
 
 **Key Areas:**
-- Modern and responsive frontend development using React.js.
+- Responsive frontend development using React.js.
 - Backend API development using ASP.NET Core.
-- Component-based architecture and reusable UI components.
-- Database integration and data management using SQL Server.
-- Frontend routing and application state management.
-- Building user-friendly interfaces for digital workflows.
+- Reusable components and frontend architecture.
+- PostgreSQL database integration and data management.
+- Application routing and state management.
+- Building user-friendly digital workflows.
 
 ### 📞 2. CallerVault – Client Communication Management
 
-**Tech Stack:** React.js | JavaScript | REST APIs
+**Tech Stack:** React.js | JavaScript | PostgreSQL | REST APIs
 
-A web-based application focused on managing client communication, call history, and message interactions through an organized interface.
+A web-based application focused on managing client communication, call history, and message interactions.
 
 **Key Features:**
 - Client-wise conversation management.
@@ -94,16 +95,16 @@ A web-based application focused on managing client communication, call history, 
 - Message creation, editing, and deletion.
 - Call history and communication tracking.
 - Priority and task status management.
+- PostgreSQL database integration.
 - Dynamic message history and API integration.
 
 ### 🍽️ 3. Apna Rasoi – Online Food Delivery
 
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB
 
-An online food delivery application focused on providing users with a seamless and user-friendly food ordering experience.
+An online food delivery application focused on providing users with a seamless food ordering experience.
 
 **GitHub:** [View Project](https://github.com/PriyanshuKumar1210/Apna-Rasoi)
-
 ---
 
 ## 📊 GitHub Statistics
