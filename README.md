@@ -123,13 +123,14 @@ An online food delivery application focused on providing users with a seamless f
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 My Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshukumar1210&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://raw.githubusercontent.com/priyanshukumar1210/priyanshukumar1210/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
+
 
 ---
 
