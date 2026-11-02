@@ -9,7 +9,11 @@
 <img src="https://komarev.com/ghpvc/?username=priyanshukumar1210&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/priyanshukumar1210?style=for-the-badge&color=blue" />
 </p>
-
+<p align="center">
+  <a href="https://priyanshukumarportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Live%20Website-00C9FF?style=for-the-badge" />
+  </a>
+</p>
 </div>
 
 ---
