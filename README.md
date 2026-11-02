@@ -107,17 +107,24 @@ An online food delivery application focused on providing users with a seamless f
 **GitHub:** [View Project](https://github.com/PriyanshuKumar1210/Apna-Rasoi)
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshukumar1210&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=priyanshukumar1210&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukumar1210&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=priyanshukumar1210&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<br/><br/>
+</div>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=priyanshukumar1210&theme=tokyonight&hide_border=true" />
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=priyanshukumar1210&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
