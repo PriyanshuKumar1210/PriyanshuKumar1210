@@ -2,17 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=220&section=header&text=Priyanshu%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20ASP.NET%20Core&descAlignY=60&descSize=17" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+%2B+ASP.NET+Core+Developer;Building+Scalable+Web+Applications;Passionate+About+Problem+Solving;Always+Learning+New+Technologies" />
-</a>
 
 <p>
-<a href="https://github.com/priyanshukumar1210">
 <img src="https://komarev.com/ghpvc/?username=priyanshukumar1210&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
-</a>
-<a href="https://github.com/priyanshukumar1210?tab=followers">
 <img src="https://img.shields.io/github/followers/priyanshukumar1210?style=for-the-badge&color=blue" />
-</a>
 </p>
 
 </div>
@@ -29,7 +23,7 @@ I enjoy transforming complex business requirements into efficient software solut
 
 Currently, I am focused on strengthening my software engineering fundamentals, exploring system design, and continuously improving my development skills.
 
-- 🔭 **Currently Working On:** Enterprise-level web applications and full-stack development.
+- 🔭 **Currently Working On:** Full-stack web development and modern application architecture.
 - 🌱 **Currently Learning:** Advanced React.js, ASP.NET Core, System Design, and AI Integration.
 - 💻 **Primary Stack:** React.js, JavaScript, C#, ASP.NET Core Web API.
 - 🗄️ **Database:** Microsoft SQL Server, ADO.NET, Stored Procedures.
@@ -61,7 +55,7 @@ Currently, I am focused on strengthening my software engineering fundamentals, e
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-**Also working with:** Microsoft SQL Server, ADO.NET, SQL Queries, Stored Procedures, and Table-Valued Parameters.
+**Also working with:** Microsoft SQL Server, ADO.NET, SQL Queries, and Stored Procedures.
 
 ### Development Tools & Platforms
 
@@ -73,38 +67,11 @@ Currently, I am focused on strengthening my software engineering fundamentals, e
 
 ## 🚀 Featured Projects
 
-### 1. Examiner Management & Answer Book Management System
-
-**Tech Stack:** React.js | ASP.NET Core Web API | C# | SQL Server | ADO.NET
-
-An enterprise-level application designed to manage examiner registration, administrative approvals, examiner roles, and answer book distribution workflows.
-
-**Key Features:**
-- Examiner registration and approval management.
-- Role-based examiner management, including Head Examiner and Assistant Head Examiner.
-- Bulk examiner data management.
-- Automated answer book distribution.
-- SQL Server stored procedure-based database operations.
-- Secure authentication and OTP-based verification.
-
-### 2. CallerVault
-
-**Tech Stack:** React.js | REST APIs | JavaScript
-
-A client communication and message management application designed to organize call history and customer interactions.
-
-**Key Features:**
-- WhatsApp-style message grouping.
-- Client-wise conversation management.
-- Message editing and deletion.
-- Priority and task status management.
-- Dynamic message history.
-
-### 3. Apna Rasoi – Online Food Delivery
+### 🍽️ Apna Rasoi – Online Food Delivery
 
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB
 
-A food delivery application focused on providing users with an intuitive food ordering experience.
+An online food delivery application focused on providing a seamless and user-friendly food ordering experience.
 
 **GitHub:** [View Project](https://github.com/PriyanshuKumar1210/Apna-Rasoi)
 
@@ -114,7 +81,7 @@ A food delivery application focused on providing users with an intuitive food or
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshukumar1210&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshukumar1210&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukumar1210&layout=compact&theme=tokyonight&hide_border=true" />
 
